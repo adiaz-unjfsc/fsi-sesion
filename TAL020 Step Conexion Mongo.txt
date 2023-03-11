@@ -1,0 +1,21 @@
+Secuencia de pasos en Mongo
+
+a) Verificar las carpetas 
+
+De datos : D:\MongoDB
+De logs : C:\Temp
+
+b) Conexion
+
+mongod --port 27107 --dbpath D:\MongoDB
+
+c) Iniciar mongo compas
+
+d) Efectuar la conexion por medio de ide compas
+
+mongodb://localhost:27107
+
+e) Crear una base datos
+
+f) Crear la collection bajo la forma : XXXCNN_nombre
+	FSIC01_Estudiante
